@@ -1,2 +1,2 @@
 # Web-Calculator
-created a web calcultor using HTML, CSS and did inplicit JavaScript coding.
+built a web calcultor using HTML, CSS and did inplicit JavaScript coding.
